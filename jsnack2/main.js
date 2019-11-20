@@ -26,8 +26,8 @@ if (word1.length == word2.length) {
 
 
 }
-var elenco = [ word1, word2];
-console.log(elenco);
-elenco.sort(function(a, b){return b - a });
-console.log(elenco);
-console.log('la parola + lunga è '+ elenco[0]);
+// var elenco = [ word1, word2];
+// console.log(elenco);
+// elenco.sort(function(a, b){return b - a });
+// console.log(elenco);
+// console.log('la parola + lunga è '+ elenco[0]);
